@@ -66,7 +66,14 @@ after producing the sequence of embedding vectors, they are fed into FC layer wi
 
 More time needed to understand the logic applied below.
 
-![image](https://user-images.githubusercontent.com/79894531/212578933-6f51ea57-dff5-4a36-8a1e-6a8b85ad62b4.png)
+***Code***
+![image](https://user-images.githubusercontent.com/79894531/212578933-6f51ea57-dff5-4a36-8a1e-6a8b85ad62b4.png)  
+***paper***  
+![image](https://user-images.githubusercontent.com/79894531/212579210-8f71b1ca-d1cb-450c-b8d8-1a3efb58ce98.png)  
+![image](https://user-images.githubusercontent.com/79894531/212579196-480ea028-fb7a-4de2-be30-a4c2f69c8f32.png)  
+
+
+
 
 
 
